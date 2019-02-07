@@ -48,4 +48,4 @@ Once running, complete the tasks in Git-it.
 
 ### What do I do if I've completed all of the above?
 
-You're done! The first day can be easy for some people and hard for others. Help out a classmate. If you really want more to do, check out [Introduction to Programming with Python](https://opentechschool.github.io/python-beginners/en/index.html) and get a head-start on tomorrow.
+You're done! The first day can be easy for some people and hard for others. Help out a classmate.
