@@ -1,0 +1,14 @@
+✔ ~/momentum/cli-practice/w1d1-git-it-yyapuncich [master|✔]
+20:12 $ touch output.txt
+✔ ~/momentum/cli-practice/w1d1-git-it-yyapuncich [master|…1]
+20:12 $ brew --version
+Homebrew 2.0.1
+Homebrew/homebrew-core (git revision 3316; last commit 2019-02-10)
+Homebrew/homebrew-cask (git revision f039; last commit 2019-02-11)
+✔ ~/momentum/cli-practice/w1d1-git-it-yyapuncich [master|…1]
+20:12 $ python3 --version
+Python 3.7.2
+✔ ~/momentum/cli-practice/w1d1-git-it-yyapuncich [master|…1]
+20:13 $ pipenv --version
+pipenv, version 2018.11.26
+✔ ~/momentum/cli-practice/w1d1-git-it-yyapuncich [master|…1]
